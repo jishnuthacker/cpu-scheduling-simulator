@@ -58,7 +58,7 @@ This project requires a Unix-like environment (Linux, macOS, WSL) with the follo
 1.  **Clone the Repository:**
     ```bash
     git clone [https://github.com/jishnuthacker/cpu-scheduling-simulator](https://github.com/jishnuthacker/cpu-scheduling-simulator)
-    cd Os_project
+    cd cpu-scheduling-simulator
     ```
 2.  **Make the script executable:**
     ```bash
