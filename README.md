@@ -9,7 +9,7 @@ The tool features an interactive **Text User Interface (TUI)** built with Bash a
 Watch the interactive TUI in action and see the final output results.
 
 <p align="center">
-  <img src="https://github.com/jishnuthacker/Os_project/raw/main/Video%20Project.gif" alt="Simulator Demo GIF" width="800"/>
+  <img src="https://github.com/jishnuthacker/cpu-scheduling-simulator/raw/main/Video%20Project.gif" alt="Simulator Demo GIF" width="800"/>
 </p>
 
 -----
@@ -57,7 +57,7 @@ This project requires a Unix-like environment (Linux, macOS, WSL) with the follo
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/jishnuthacker/Os_project](https://github.com/jishnuthacker/Os_project)
+    git clone [https://github.com/jishnuthacker/cpu-scheduling-simulator](https://github.com/jishnuthacker/cpu-scheduling-simulator)
     cd Os_project
     ```
 2.  **Make the script executable:**
